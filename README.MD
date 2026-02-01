@@ -8,10 +8,15 @@ XAI-CropCare is a comprehensive deep learning framework designed for modern agri
 
 Key features:
 
-Automatic disease detection for multiple crops (Corn, Potato, Rice, Wheat).
-
 Severity grading of detected diseases for better treatment prioritization.
 
 Decision support module for actionable recommendations.
 
 Explainable AI visualizations to interpret model predictions.
+
+
+## Dataset
+- Crop: Grape
+- Diseases: Healthy, Black Rot, Esca, Leaf Blight
+- Source: PlantVillage
+- Split: 70% Train, 15% Validation, 15% Test
